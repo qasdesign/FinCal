@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app.py
+echo "web: sh setup.sh && streamlit run app.py" > Procfile
