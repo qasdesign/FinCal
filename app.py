@@ -116,7 +116,7 @@ fig.update_layout(title='Forecast Salary, Expenses & Savings Over the Years',
 
 st.plotly_chart(fig, use_container_width=True)
 
-# streamlit run C:/Users/Mohammad_Saleh/Desktop/Fintech/FinCal/app.py
+# streamlit run C:/Users/Mohammad_Saleh/Desktop/Fintech/FinCal/FinCal/app.py
 
 
 
